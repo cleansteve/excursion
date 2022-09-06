@@ -1,6 +1,8 @@
 # Excursions
 
-This was a project done with Codecademy. I didn't expect to be deploying a site but here it is in all it's glory.
+This was a project done with Codecademy. I didn't expect to be deploying a site but here it is in all it's glory:
+
+https://cleansteve.github.io/excursion/
 
 ## Brief
 
